@@ -11,10 +11,10 @@ open("https://www.instagram.com/petrmotka");
 
 };
 
-function mastodon () {
+function twitter () {
 
 
-open ("https://masto.ai/@petrmotka");
+open ("https://twitter.com/petrmotka69");
 
 };
 
